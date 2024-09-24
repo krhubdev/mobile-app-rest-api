@@ -1,0 +1,7 @@
+{
+  "name": "attedance.app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
