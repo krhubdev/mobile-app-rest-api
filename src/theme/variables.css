@@ -1,2 +1,18 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+:root {
+    --ion-color-custom-color: #E65A7B !important;
+    --ion-color-custom-color-rgb: 230, 90, 123 !important; /* Correct RGB values for #E65A7B */
+    --ion-color-custom-color-contrast: #ffffff !important;
+    --ion-color-custom-color-contrast-rgb: 255, 255, 255 !important;
+    --ion-color-custom-color-shade: #cc4966 !important;
+    --ion-color-custom-color-tint: #f07594 !important;
+  }
